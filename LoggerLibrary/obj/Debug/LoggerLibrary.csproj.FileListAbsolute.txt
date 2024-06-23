@@ -1,0 +1,6 @@
+C:\Users\bhanu\Desktop\Desktop\LoggerLibrary\LoggerLibrary\bin\Debug\LoggerLibrary.dll
+C:\Users\bhanu\Desktop\Desktop\LoggerLibrary\LoggerLibrary\bin\Debug\LoggerLibrary.pdb
+C:\Users\bhanu\Desktop\Desktop\LoggerLibrary\LoggerLibrary\obj\Debug\LoggerLibrary.csproj.AssemblyReference.cache
+C:\Users\bhanu\Desktop\Desktop\LoggerLibrary\LoggerLibrary\obj\Debug\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bhanu\Desktop\Desktop\LoggerLibrary\LoggerLibrary\obj\Debug\LoggerLibrary.dll
+C:\Users\bhanu\Desktop\Desktop\LoggerLibrary\LoggerLibrary\obj\Debug\LoggerLibrary.pdb
